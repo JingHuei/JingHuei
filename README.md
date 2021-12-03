@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Lucy. 👋
+- 🌱 I’m currently learning Web front end.
+- <a href="https://jinghuei.github.io/LucyDiHueiGreat/" target="_blank"><img src="https://media3.giphy.com/media/mBRLcBE5qCbe1xvwQ3/giphy.gif?cid=790b7611b79953b699c3861ea5da5d6df09102a620ba9f71&rid=giphy.gif&ct=g" style="width:50px; height:100%;">my Blog name is
+LucyDiHueiGreat, LOGO is <img src="https://i.imgur.com/8gaGOVK.png" style="width:100px; height:100%;"> </a>
 
 <!--
 **JingHuei/JingHuei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
