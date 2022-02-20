@@ -1,7 +1,6 @@
 ### Hi there, I'm Lucy. 👋
-- 🌱 I’m currently learning Web front end.
-- <a href="https://jinghuei.github.io/" target="_blank">my Blog name is
-LucyDiHueiGreat , you can click here go to my blog <img src="https://media3.giphy.com/media/mBRLcBE5qCbe1xvwQ3/giphy.gif?cid=790b7611b79953b699c3861ea5da5d6df09102a620ba9f71&rid=giphy.gif&ct=g" style="width:50px; height:100%;"></a>
+- 🌱 正在努力學習前端技術，往成為前端工程的目標前進。
+- 這是我的部落格<a href="https://jinghuei.github.io/" target="_blank">《鹿熙滴慧櫃 LucyDiHueiGreat》</a>，內容尚在努力更新中，歡迎前往及給予指教～ <a href="https://jinghuei.github.io/" target="_blank"><img src="https://media3.giphy.com/media/mBRLcBE5qCbe1xvwQ3/giphy.gif?cid=790b7611b79953b699c3861ea5da5d6df09102a620ba9f71&rid=giphy.gif&ct=g" style="width:50px; height:100%;"></a>
 
 <!--
 **JingHuei/JingHuei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
